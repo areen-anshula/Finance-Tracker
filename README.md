@@ -8,7 +8,7 @@ This project is built to demonstrate **real-world backend development**, secure 
 
 ## 🚀 Features
 
-- 🔐 User Authentication (JWT / Session-based)
+- 🔐 User Authentication (DRF / Session-based)
 - 💰 Track Income & Expenses
 - 🗂️ Categorized transactions (Food, Travel, Rent, etc.)
 - 📆 Transaction history with:
@@ -23,7 +23,6 @@ This project is built to demonstrate **real-world backend development**, secure 
 - 🤖 Insights Page:
   - Currency conversion using external API
   - AI-powered spending insights (e.g., overspending detection)
-- 🌐 RESTful API (scalable & mobile-app ready)
 
 ---
 
@@ -37,8 +36,6 @@ This project is built to demonstrate **real-world backend development**, secure 
 - Environment Variables for secrets
 
 ### Frontend
-- React (Vite)
-- Tailwind CSS
 - Axios / Fetch API
 
 ### External APIs
