@@ -31,7 +31,7 @@ This project is built to demonstrate **real-world backend development**, secure 
 ### Backend
 - Django
 - Django REST Framework (DRF)
-- Django Authentication (JWT / Session)
+- Django Authentication (DRF / Session)
 - PostgreSQL / SQLite
 - Environment Variables for secrets
 
