@@ -2,7 +2,7 @@
 
 A full-stack **personal finance web application** that helps users track income and expenses, analyze spending habits, and gain smart insights using external APIs.
 
-This project is built to demonstrate **real-world backend development**, secure authentication, REST API design, and modern frontend integration using Django and React.
+This project is built to demonstrate **real-world backend development**, secure authentication, REST API design, and modern backend integration using Django.
 
 ---
 
