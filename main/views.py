@@ -1,9 +1,12 @@
 from django.shortcuts import render
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
+from rest_framework import status
 from .models import Transaction
 from .serializers import TransactionSerializer
+from django.contrib.auth.decorators import login_required
 
+@login_required
 def home(request):
     return render(request, 'base.html')
 
