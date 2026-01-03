@@ -32,7 +32,7 @@ This project is built to demonstrate **real-world backend development**, secure 
 - Django
 - Django REST Framework (DRF)
 - Django Authentication (DRF / Session)
-- PostgreSQL / SQLite
+- SQLite
 - Environment Variables for secrets
 
 ### Frontend
